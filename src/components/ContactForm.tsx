@@ -2,7 +2,7 @@ function ContactForm() {
     const accessKey = '225e16e0-d373-4864-ba56-ec20d4af8983';
 
     return (
-        <form action="https://api.web3forms.com/submit" method="POST">
+        <form id="contact" action="https://api.web3forms.com/submit" method="POST">
 
             <h3 className="text-center">Contact Me</h3>
 
